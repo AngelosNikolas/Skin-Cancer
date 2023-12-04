@@ -1,7 +1,4 @@
 # Skin-Cancer
-
-## Angelos Nikolas
-
 This project focuses on image classification of various classes of skin cancer. Machine learning techniques can
 identify texture features from these images and provide numerous advantages in the field. The need of this
 project is the exploration of the techniques used in the field, define best practises and compromises to ensure
